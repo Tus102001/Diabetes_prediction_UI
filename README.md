@@ -14,4 +14,6 @@ Selected model: **RandomForest**
 pip install -r requirements.txt
 streamlit run app.py
 ```
->>>>>>> ecc27d3 (Deploy: diabetes predictor app)
+
+## App link
+https://diabetespredictionui-6rbscbfnfjlgeq2hwcazg9.streamlit.app/
