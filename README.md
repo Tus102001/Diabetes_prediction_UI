@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Diabetes_prediction_UI
 =======
 # Final Phase – Diabetes Prediction
