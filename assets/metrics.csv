@@ -1,0 +1,2 @@
+model,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+RandomForest,0.808,0.7692307692307693,0.88,0.8208955223880597,0.897824
